@@ -139,16 +139,7 @@
 			isa = PBXGroup;
 			children = (
 				4AF45D5E213685670069FDF0 /* BaseClass */,
-				4A446C4A21367CF90090F017 /* AppDelegate.h */,
-				4A446C4B21367CF90090F017 /* AppDelegate.m */,
-				4A446C4D21367CF90090F017 /* ViewController.h */,
-				4A446C4E21367CF90090F017 /* ViewController.m */,
-				4A446C5021367CF90090F017 /* Main.storyboard */,
-				4A446C5321367CF90090F017 /* Assets.xcassets */,
-				4A446C5521367CF90090F017 /* LaunchScreen.storyboard */,
-				4A446C5821367CF90090F017 /* Info.plist */,
-				4AF45D672136868E0069FDF0 /* RACDemo-Prefix.pch */,
-				4A446C5921367CF90090F017 /* main.m */,
+				4AFC2E1A2136AC7A00B7CEA8 /* Other */,
 			);
 			path = RACDemo;
 			sourceTree = "<group>";
@@ -234,6 +225,23 @@
 				4AFC2E012136A24800B7CEA8 /* MRCReactiveView.h */,
 			);
 			path = Util;
+			sourceTree = "<group>";
+		};
+		4AFC2E1A2136AC7A00B7CEA8 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				4A446C4A21367CF90090F017 /* AppDelegate.h */,
+				4A446C4B21367CF90090F017 /* AppDelegate.m */,
+				4A446C4D21367CF90090F017 /* ViewController.h */,
+				4A446C4E21367CF90090F017 /* ViewController.m */,
+				4A446C5021367CF90090F017 /* Main.storyboard */,
+				4A446C5321367CF90090F017 /* Assets.xcassets */,
+				4A446C5521367CF90090F017 /* LaunchScreen.storyboard */,
+				4A446C5821367CF90090F017 /* Info.plist */,
+				4AF45D672136868E0069FDF0 /* RACDemo-Prefix.pch */,
+				4A446C5921367CF90090F017 /* main.m */,
+			);
+			path = Other;
 			sourceTree = "<group>";
 		};
 		F0DD30A65ECA907013B2F074 /* Frameworks */ = {
